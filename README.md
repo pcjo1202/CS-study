@@ -4,10 +4,10 @@ _"취업을 위한 데일리 스터디 기록 저장소"_
 > 📅 2025.10.17 ~ ing... 
 
 ## 🔗 빠른 시작
-- 📌 [운영 요약](./SUMMARY.md) - 스터디 운영 방식 한눈에 보기
-- 👉 [시작 가이드](./GETTING_STARTED.md) - 처음 시작하시는 분들은 여기부터!
-- 🍴 [Fork 완벽 가이드](./FORK_GUIDE.md) - Fork 방식 상세 설명
-- ✅ [주간 체크리스트](./CHECKLIST.md) - 매주 확인할 사항
+- 📌 [운영 요약](./Docs/SUMMARY.md) - 스터디 운영 방식 한눈에 보기
+- 👉 [시작 가이드](./Docs/GETTING_STARTED.md) - 처음 시작하시는 분들은 여기부터!
+- 🍴 [Fork 완벽 가이드](./Docs/FORK_GUIDE.md) - Fork 방식 상세 설명
+- ✅ [주간 체크리스트](./Docs/CHECKLIST.md) - 매주 확인할 사항
 - 📋 [Issue 템플릿](https://github.com/study-four-career/CS-study/issues/new/choose) - 주간 학습 계획 등록
 
 ## 💪 우리의 목표
@@ -198,4 +198,4 @@ git commit -m "update(week01): day03 - 번들링 코드 예시 추가"
 ## 🧑🏻‍💻 멤버
 |  박창조 | 박희연 | 이주영 | 이가희 | 변희수 | 
 |:---:|:---:|:---:|:----:|:---:|
-| [![](https://github.com/pcjo1202.png?width=150px)](https://github.com/pcjo1202) | [![](https://github.com/{ID}.png?width=150px)](https://github.com/{ID}) | [![](https://github.com/{ID}.png?width=150px)](https://github.com/{ID}) | [![](https://github.com/{ID}.png?width=150px)](https://github.com/{ID}) |[![](https://github.com/{ID}.png?width=150px)](https://github.com/{ID}) |
+| [![](https://github.com/pcjo1202.png?width=150px)](https://github.com/pcjo1202) | [![](https://github.com/hi-react.png?width=150px)](https://github.com/hi-react) | [![](https://github.com/JUST7LING.png?width=150px)](https://github.com/JUST7LING) | [![](https://github.com/2gahee.png?width=150px)](https://github.com/2gahee) |[![](https://github.com/hiheesoo.png?width=150px)](https://github.com/hiheesoo) |
