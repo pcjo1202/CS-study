@@ -15,14 +15,18 @@
 
 ### 1) CREATE
 
-```sql
-CREATE SCHEMA 대학교 AUTHORIZATION 홍길동;
-```
 **스키마**
 - DB 구조, 제약 조건에 대한 전반 명세를 기술한 것
 - 개체(Entity), 속성(Attribute), 관계(Relationship) 등
 
+```sql
+CREATE SCHEMA 대학교 AUTHORIZATION 홍길동;
+```
+
 <br/>
+
+**도메인**
+- 하나의 속성이 취할 수 있는 동일한 유형의 원자 값 집합 (사용자 정의 데이터 타입)
 
 ```sql
 CREATE DOMAIN SEX CHAR(1)
@@ -30,8 +34,7 @@ CREATE DOMAIN SEX CHAR(1)
         CONSTRAINT VALID-SEX CHECK(VALUE IN('남', '여'));
 ```
 
-**도메인**
-- 하나의 속성이 취할 수 있는 동일한 유형의 원자 값 집합 (사용자 정의 데이터 타입)
+
 
 <br/>
 
