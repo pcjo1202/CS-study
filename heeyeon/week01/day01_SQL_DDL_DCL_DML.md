@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="../style.css">
-
 # SQL
 
 <details>
@@ -440,6 +438,19 @@ ON 학생.학과코드 = 학과.학과코드;
 ```
 </details>
 
+
+<style>
+summary {
+  font-size: 1.5em;
+  font-weight: 600;
+  margin-top: 1em;
+  cursor: pointer;
+}
+
+details[open] summary {
+  color: #5f8cff;
+}
+</style>
 
 
 
